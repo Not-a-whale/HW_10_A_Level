@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "cultures": {
+    "en_US": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "ru_Ru": "йцукенгшщзхфывапролджэячсмитьбюъёєїі'",
+    "num": "1234567890+-"
+  }
+}
